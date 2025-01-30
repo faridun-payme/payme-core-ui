@@ -45,7 +45,4 @@ if (script.exists() && script.canExecute()) {
 includeBuild("build-logic")
 
 rootProject.name = "CoreUI"
-include(
-    ":app",
-    ":core-ui"
-)
+include(":app", ":core-ui")
