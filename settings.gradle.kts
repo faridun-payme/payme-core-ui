@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CoreUI"
 include(":app")
- 
+include(":core-ui")
